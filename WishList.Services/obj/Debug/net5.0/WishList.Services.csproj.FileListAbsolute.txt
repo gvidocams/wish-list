@@ -1,0 +1,17 @@
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\bin\Debug\net5.0\WishList.Services.deps.json
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\bin\Debug\net5.0\WishList.Services.dll
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\bin\Debug\net5.0\WishList.Services.pdb
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\bin\Debug\net5.0\WishList.Core.dll
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\bin\Debug\net5.0\WishList.Data.dll
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\bin\Debug\net5.0\WishList.Core.pdb
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\bin\Debug\net5.0\WishList.Data.pdb
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\obj\Debug\net5.0\WishList.Services.csproj.AssemblyReference.cache
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\obj\Debug\net5.0\WishList.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\obj\Debug\net5.0\WishList.Services.AssemblyInfoInputs.cache
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\obj\Debug\net5.0\WishList.Services.AssemblyInfo.cs
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\obj\Debug\net5.0\WishList.Services.csproj.CoreCompileInputs.cache
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\obj\Debug\net5.0\WishList.Services.csproj.CopyComplete
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\obj\Debug\net5.0\WishList.Services.dll
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\obj\Debug\net5.0\refint\WishList.Services.dll
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\obj\Debug\net5.0\WishList.Services.pdb
+C:\Users\Gvido\Desktop\Codelex\extra homeworks\abcsolutions\wish-list\WishList.Services\obj\Debug\net5.0\ref\WishList.Services.dll
