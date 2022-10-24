@@ -22,6 +22,8 @@ This is a technical task for a company SIA "ABC solutions". Project contains an 
 
 # Usage
 
+### Wish
+
 This API contains these endpoints:
 
 * Get Wishes : `GET /api/wish`
@@ -37,7 +39,7 @@ This API contains these endpoints:
 
 ```c#
 {
-  description: "string"
+  "description": "string"
 }
 ```
 
@@ -51,7 +53,7 @@ This API contains these endpoints:
 
 ```c#
 {
-  description: "string"
+  "description": "string"
 }
 ```
 
@@ -64,6 +66,30 @@ This API contains these endpoints:
 |Parameter|Type|Rule|
 |---|---|---|
 |`id`|integer|Required - Wish ID|
+
+### User
+
+* Get names from users : `POST /api/users`
+
+### JSON Request example
+
+```c#
+[
+  {
+    "type": "string",
+    "id": 0,
+    "name": "string",
+    "email": "string"
+  }
+]
+```
+
+|Parameter|Type|Rule|
+|---|---|---|
+|`type`|string|Required - User type|
+|`id`|string|Required - User ID|
+|`name`|string|Required - User name|
+|`email`|string|Required - User email|
 
 # Technologies Used
 
